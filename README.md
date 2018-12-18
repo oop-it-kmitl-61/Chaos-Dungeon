@@ -11,12 +11,7 @@
 # How to plays
 
 1. กด ลูกศรเพื่อทำการเคลื่อนไหว กด สเปคบาร์ในการกระโดด
-
----
-
 2. กด Z ในการปล่อยสกิลออกมา กด X ในการเพิ่มพลังในการปล่อยสกิล
-
----
 
 # รายละเอียดของสกิล 
 
@@ -63,9 +58,14 @@
 # Credit Image
 
 Kingdom : https://rawfury.com/
- Darkest dungeon : https://www.darkestdungeon.com/ 
+
+Darkest dungeon : https://www.darkestdungeon.com/ 
+
 Dungeon maker : http://gamecoaster.com/
+
 https://www.gameart2d.com/
+
 https://opengameart.org/
+
 https://forums.rpgmakerweb.com/index.php
 
