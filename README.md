@@ -80,7 +80,7 @@ https://forums.rpgmakerweb.com/index.php
 
 # Assistant Teacher
 
-ผศ.ดร. ธนิศา นุ่มนนท์
+* ผศ.ดร. ธนิศา นุ่มนนท์
 
 รายงานนี้เป็นส่วนหนึ่งของวิชา Object-Oriented Programming (รหัส 06016317)
 
